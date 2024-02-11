@@ -1,6 +1,3 @@
-Certainly! I'll tailor the README based on the code you provided. Feel free to modify it according to your specific project details:
-
----
 
 # Credit Card Fraud Detection
 
@@ -59,6 +56,3 @@ The model's performance is evaluated using various metrics, including accuracy, 
 
 Feel free to contribute to this project by forking the repository and creating pull requests. If you encounter any issues or have suggestions for improvement, please open an issue.
 
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
