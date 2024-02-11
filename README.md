@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project focuses on building a credit card fraud detection system using machine learning. The goal is to identify fraudulent transactions within a credit card dataset. The dataset used for this project is 'creditcard.csv'.
+This project focuses on building a credit card fraud detection system using machine learning. The goal is to identify fraudulent transactions within a credit card dataset. The dataset used for this project is 'creditcard.csv', which can be found [here]([provide_link_to_dataset](https://drive.google.com/file/d/1v-Dt8CZotv14hG64WYcAosd9_PUhUwxx/view?usp=drive_link)).
 
 ## Table of Contents
 
@@ -13,7 +13,6 @@ This project focuses on building a credit card fraud detection system using mach
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
